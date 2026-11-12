@@ -1,0 +1,25 @@
+PhantomX loader - function inventory with behavior markers
+Source: C:/temp/loader_decompiled.c (base 0x160000)
+
+function             addr  markers
+FUN_00164120   0x 00164120  ImGui window/menu strings
+FUN_00166bf0   0x 00166bf0  ImGui window/menu strings
+FUN_001b45a0   0x 001b45a0  HWID spoofer/changer detection; Anti-analysis processes scan
+FUN_001b6c50   0x 001b6c50  Discord invite open
+FUN_001b7770   0x 001b7770  Public-IP lookup
+FUN_001b8be0   0x 001b8be0  Self-update phantomx_update_temp.exe
+FUN_001b94a0   0x 001b94a0  SpecialForce game path hunting; Game window/title match
+FUN_001bb300   0x 001bb300  Game process targeting SpecialForce.exe; Game window/title match
+FUN_001bc620   0x 001bc620  YouTube link open
+FUN_001be9c0   0x 001be9c0  Mutex Global\SFRush_SecurityMatrix_2026; Game window/title match
+FUN_001beb6d   0x 001beb6d  Local rawdata fallback
+FUN_001c0fd0   0x 001c0fd0  Injection status message; Game window/title match
+FUN_001c6620   0x 001c6620  C2/pastebin fetch  https://pastebin.com/raw/*; Version check strings
+FUN_001cab40   0x 001cab40  Version check strings
+FUN_001dcf10   0x 001dcf10  DLL load into target
+FUN_001e5de0   0x 001e5de0  Version check strings
+FUN_001ec430   0x 001ec430  Version check strings
+FUN_001ed5a0   0x 001ed5a0  Version check strings
+FUN_00207710   0x 00207710  Version check strings
+FUN_00207cc0   0x 00207cc0  Version check strings
+FUN_0020f900   0x 0020f900  Version check strings
